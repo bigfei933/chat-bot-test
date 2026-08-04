@@ -1,5 +1,14 @@
 # @chat-adapter/telegram
 
+## 4.37.0
+
+### Patch Changes
+
+- 629e655: Combine incoming Telegram media groups into one message with ordered attachments and the shared caption.
+- Updated dependencies [85e3d22]
+  - chat@4.37.0
+  - @chat-adapter/shared@4.37.0
+
 ## 4.36.0
 
 ### Patch Changes
